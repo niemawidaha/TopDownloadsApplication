@@ -1,6 +1,6 @@
-# TopDownloadsApplication
+# Top Download Android Application
 
-Using Apples RSS feed to display data from the App Store:
+Uses Apples RSS feed to display data from the App Store:
 
 - Top 10 or Top 25: 
    - Songs
